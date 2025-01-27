@@ -1,4 +1,4 @@
-# [Accounts App](https://RuslanSkl.github.io/Accounts-UI-DOM-APP/)  ⬅️ Click to open
+# [Accounts App](https://RuslanSkl.github.io/Accounts-UI-DOM-App/)  ⬅️ Click to open
 ### User and pins for all 4 accounts
 
 - user: bj pin: 1111
