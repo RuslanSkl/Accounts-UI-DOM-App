@@ -1,10 +1,8 @@
-# [Accounts App](https://RuslanSkl.github.io/Accounts-UI-DOM-APP/)  ⬅️ Click to open
+# [Accounts App](https://RuslanSkl.github.io/Accounts-UI-DOM-App/)  ⬅️ Click to open
 ### User and pins for all 4 accounts
 
 - user: bj pin: 1111
 - user: jd pin: 2222
-- user: stw pin: 3333
-- user: ss pin: 4444
 ## Overview
 
 The **Accounts App** is a simple banking application that simulates the core functionalities of a modern banking system. With Accounts, users can securely log in, view account details, transfer funds, request loans, and close accounts, all through a sleek and interactive user interface.
