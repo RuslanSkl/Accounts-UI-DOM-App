@@ -1,5 +1,5 @@
 # [Accounts App](https://RuslanSkl.github.io/Accounts-UI-DOM-App/)  ⬅️ Click to open
-### User and pins for all 4 accounts
+### User and pins for all 2 accounts
 
 - user: bj pin: 1111
 - user: jd pin: 2222
